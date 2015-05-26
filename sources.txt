@@ -1,4 +1,5 @@
+vom mac 1 - in branch arbeiten
 com mac 1
 merge 1
-zweite änderung
-erste änderung
+zweite Aenderung
+erste Aenderung
