@@ -1,5 +1,12 @@
+<<<<<<< Updated upstream
 vom mac 1 - in branch arbeiten
 com mac 1
 merge 1
+=======
+2015-06-04 17:09
+in master change
+vom mac 1 - in branch arbeite
+vom mac 1
+>>>>>>> Stashed changes
 zweite Aenderung
 erste Aenderung
