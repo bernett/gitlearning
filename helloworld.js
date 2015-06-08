@@ -11,3 +11,5 @@ lets work on master
 
 //master 1 2
 //fix broken mail (hotfix)
+//new footer
+//Footer done
