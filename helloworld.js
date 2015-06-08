@@ -5,3 +5,4 @@ function hello() {
 function world() {
 	alert("still");
 }
+
