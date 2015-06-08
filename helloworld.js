@@ -6,6 +6,5 @@ function world() {
 	alert("still");
 }
 
----
-
 lets work on master
+//Small change in mac1
