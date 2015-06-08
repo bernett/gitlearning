@@ -6,5 +6,5 @@ function world() {
 	alert("still");
 }
 
-
+---
 
